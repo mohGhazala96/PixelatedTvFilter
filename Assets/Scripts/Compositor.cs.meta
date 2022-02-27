@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 332c51226fcb84459944aadf5cfb6628
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _source: {instanceID: 0}
+  - _bgImage: {fileID: 2800000, guid: 5d062b98e1d33404790664de860f05cf, type: 3}
+  - _outputUI: {instanceID: 0}
+  - _resources: {fileID: 11400000, guid: 93dd958d1994ff144a3cc5a5e345c854, type: 2}
+  - _shader: {fileID: 4800000, guid: de11c704ec39845888e91cff0feb9783, type: 3}
+  - block1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
